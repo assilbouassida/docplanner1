@@ -1,0 +1,251 @@
+#a1{
+    display: flex;
+    justify-content: flex-end;
+}
+li{
+    list-style: none;
+    margin: 15px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    overflow: hidden;
+    background-color: #fff;
+    position: fixed;
+    top: 0;
+    width: 100%;}
+#s1{
+    text-align: center;
+    color: #05c8ab;
+    font-style: italic;
+}
+fieldset{
+    width: 20%;
+}
+#s5{
+    display: flex;
+    justify-content: space-around;
+}
+#s6{
+    display: flex;
+    justify-content: space-around;
+    color:#999999;
+}
+#a{
+    color:#05c8ab;
+    text-decoration: none;
+}
+#e1{
+    color: #999999;
+    text-decoration: none;
+}
+#si2{
+    
+    background-color: #00ccb1;
+      border-radius: 10px;
+      border: 4px double #cccccc;
+      color: #eeeeee;
+      font-size: 20px;
+      padding: 20px;
+      width: 280px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+}
+#si3{
+      background-color: #3d83df;
+      border-radius: 10px;
+      border: 4px double #cccccc;
+      color: #eeeeee;
+      font-size: 20px;
+      padding: 20px;
+      width: 280px;
+      transition: all 0.5s;
+      cursor: pointer;
+      margin: 5px;
+}
+#si4{
+    
+    background-color:#1b2734 ;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #eeeeee;
+    font-size: 20px;
+    padding: 20px;
+    width: 280px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+    
+}
+body{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#domain-switcher1{
+    background-color: #00ccb1;
+    color:floralwhite
+}
+#domain-switcher2{
+    background-color: #3d83df;
+    color:floralwhite
+}
+#domain-switcher3{
+    background-color: #1b2734;
+    color:floralwhite
+}
+
+footer{
+    text-align: center;
+    color:#999999;
+}
+#q4{
+    position: sticky;
+}
+#stats{
+    background-color: #d6f5f6;
+}
+#stats>img{
+    width: 300px;
+    margin-top: 150px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+#q2{
+    color: #05c8ab;
+    margin-left: 150px;
+    font-size: 25px;
+    margin-top: 50px;
+    
+}
+#p{
+    color: #999999;
+    margin-left: 100px;
+}
+#w5{
+     
+    text-align: center;
+    background-color:#ffffff ;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #05c8ab;
+    font-size: 15px;
+    padding: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+#w6{ 
+    margin-left: 600px;
+    margin-top: 100px;
+}
+#ss{
+    margin-left: 600px;
+    margin-top: -150px;
+    margin-bottom: 300px;
+}
+#ff{
+    margin-left: 820px;
+    margin-top: -650px;
+}
+#w8{
+    text-align: center;
+    background-color:#ffffff ;
+    border-radius: 10px;
+    border: 4px double #cccccc;
+    color: #05c8ab;
+    font-size: 15px;
+    padding: 20px;
+    width: 150px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+}
+#nn{
+    margin-left: 820px;
+    margin-top: -380px;
+}
+#kk{
+    margin-left: 250px;
+   
+}
+#aa1{
+    text-align: center;
+    color:#05c8ab;
+}
+#aa1>p{
+    color:#999999;
+}
+#wa{
+    text-align: center;
+    font-size: 30px;
+}
+#wa>button{
+    display: inline-block;
+    background-color: #3d83df;
+    border-radius: 10px;
+    border: 4px double #3d83df;
+    color: #ffffff;
+    text-align: center;
+    font-size: 10px;
+    padding: 20px;
+    width: 200px;
+    cursor: pointer;
+    margin: 5px;
+}
+#lola{
+    display: flex;
+    justify-content: space-around;
+}
+#thenya{
+    display: flex;
+    justify-content: space-around;
+}
+#t1{
+   
+    display: flex;
+    justify-content: space-around;
+}
+#t1>button{
+    display: inline-block;
+    background-color: #3d83df;
+    border-radius: 10px;
+    border: 4px double #3d83df;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    width: 150px;
+    cursor: pointer;
+    margin: 5px;
+}
+#t1>p{
+    color:#999999;
+    font-size:20px ;
+}
+#t2>button{
+    display: inline-block;
+    background-color: #3d83df;
+    border-radius: 10px;
+    border: 4px double #3d83df;
+    color: #ffffff;
+    text-align: center;
+    font-size: 12px;
+    padding: 10px;
+    width: 150px;
+    cursor: pointer;
+    margin: 5px;
+}
+#t2>p{
+    color:#999999;
+    font-size:20px ;
+}
+#t2{
+    display: flex;
+    margin-left: 45px;
+}
+#chihimike{
+    color: #ffffff;
+}
